@@ -30,3 +30,5 @@
 - Used the advancement generator above to generate an advancement that triggers when a player uses bounty pearl (eye of ender with custom model data)
 - Created a mcfunction that triggers when the above advancement is detected, and clears the advancement so the player can trigger it again.
 - [Functions! - Minecraft Datapack Tutorial EP 4](https://www.youtube.com/watch?v=IGIwf7ZcUTg&list=PL01VhHmiNQ5oJ-0hoZvrJd2j9Ol7-Isim&index=4)
+- In the `throw_bounty_pearl` function, we can tag the nearest eye of ender as a `bounty-pearl`
+- Later, in a function run on tick, we can select all bounty pearls and run a function on them to update their motion

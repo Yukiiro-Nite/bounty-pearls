@@ -1,0 +1,1 @@
+execute as @e[type=eye_of_ender,tag=bounty-pearl] run function bounty-pearls:move_pearl
