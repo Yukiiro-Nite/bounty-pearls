@@ -1,0 +1,22 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:used_ender_eye",
+      "conditions": {
+        "player": {
+          "equipment": {
+            "mainhand": {
+              "items": "minecraft:ender_eye",
+              "components": {
+                "minecraft:custom_model_data": 8524001
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bounty-pearls:throw_bounty_pearl"
+  }
+}
