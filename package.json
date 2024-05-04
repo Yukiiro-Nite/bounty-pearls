@@ -1,0 +1,11 @@
+{
+  "name": "bounty-pearls",
+  "version": "0.0.1",
+  "description": "Wrapper package for the bounty-pearls datapack",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "node scripts/deploy.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
