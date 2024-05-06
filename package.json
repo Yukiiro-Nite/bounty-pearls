@@ -4,8 +4,12 @@
   "description": "Wrapper package for the bounty-pearls datapack",
   "main": "index.js",
   "scripts": {
-    "deploy": "node scripts/deploy.js"
+    "deploy": "node scripts/deploy.js",
+    "build": "node scripts/build.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "archiver": "^7.0.1"
+  }
 }
