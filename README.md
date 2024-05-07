@@ -1,14 +1,15 @@
 # Bounty Pearls
-*overview about bounty pearls*
+This Minecraft data pack introduces a new item called the Bounty Pearl. Players can use these pearls to track down other players within the game world. By renaming the Bounty Pearl in an anvil to the name of the desired player, users can then throw the pearl to initiate tracking.
 
-*cool image here*
+![A thrown bounty pearl](screenshots/thrown_bounty_pearl.png)
 
 ## Recipes
 
 ### Bounty Pearl
-*image of bounty pearl recipe*
+![Bounty pearl recipe, a skull with an eye of ender on each side.](screenshots/bounty_pearl_recipe.png)
+- After you create the pearl, you need to rename it in an anvil to the name of the player you want to track.
 
-## Credits
+## Credits, links, and thoughts
 ### Getting started, crafting, and custom model data
 - [Introduction to Datapacks - Minecraft Datapack Tutorial EP 1](https://www.youtube.com/watch?v=ePDn1g5woC4&list=PL01VhHmiNQ5oJ-0hoZvrJd2j9Ol7-Isim&index=1&t=1s&pp=iAQB)
 - [Custom Recipes - Minecraft Datapack Tutorial EP 2](https://www.youtube.com/watch?v=Uq2cbgeLssU&list=PL01VhHmiNQ5oJ-0hoZvrJd2j9Ol7-Isim&index=3)
